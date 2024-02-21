@@ -1,0 +1,8 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Cloud-Apps" type="CompoundRunConfigurationType">
+    <toRun name="EurekaServerApplication" type="Application" />
+    <toRun name="SpringGwApplication" type="Application" />
+    <toRun name="SpringSem9HwApplication" type="Application" />
+    <method v="2" />
+  </configuration>
+</component>
